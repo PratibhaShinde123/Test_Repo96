@@ -1,1 +1,3 @@
 line 1 of text code
+line 2 of text code
+line 3 of text code
